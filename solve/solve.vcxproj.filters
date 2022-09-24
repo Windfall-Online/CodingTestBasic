@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="source">
+      <UniqueIdentifier>{d70b7601-79ee-480f-a521-20f1b2e853f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header">
+      <UniqueIdentifier>{5c0e0313-f6d5-4c98-81b1-16e708c445d3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1. 1부터 N가지 M의 배수합.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="2. 자연수의 합.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="3. 진약수의 합.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="4. 나이 차이.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="5. 나이계산.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h">
+      <Filter>header</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
