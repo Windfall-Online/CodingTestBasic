@@ -24,6 +24,15 @@
     <ClCompile Include="5. 나이계산.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="6. 숫자만 추출.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="7. 영어단어 복구.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="8. 올바른 괄호.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">
