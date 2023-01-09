@@ -33,6 +33,12 @@
     <ClCompile Include="8. 올바른 괄호.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="9. 모두의 약수.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="10. 자릿수의 합.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">
