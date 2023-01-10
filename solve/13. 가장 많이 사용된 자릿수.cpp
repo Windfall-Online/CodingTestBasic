@@ -23,10 +23,7 @@ int main()
 	{
 		if (input[i] >= maxNum)
 		{
-			if (i > maxIndex)
-			{
-				maxIndex = i;
-			}
+			maxIndex = i;
 		}
 	}
 	// Ãâ·Â
