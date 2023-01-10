@@ -39,6 +39,12 @@
     <ClCompile Include="10. 자릿수의 합.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="11, 12 숫자의 총 개수%28small%29.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="13. 가장 많이 사용된 자릿수.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">

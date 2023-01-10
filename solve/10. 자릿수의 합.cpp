@@ -30,7 +30,7 @@ int main()
 		{
 			maxResult = digit_sum(temp);
 			maxNum = temp;
-		}
+		}	
 		else if(digit_sum(temp) == maxResult)
 		{
 			if (temp > maxNum)
