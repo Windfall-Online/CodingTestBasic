@@ -21,10 +21,12 @@ int main()
 	// 제일 큰 인덱스의 값 판별
 	for (int i = 0; i < 10; ++i)
 	{
-		if (input[i] >= maxNum)
+		if (number[i] >= maxNum)
 		{
+			maxNum = number[i];
 			maxIndex = i;
 		}
+
 	}
 	// 출력
 	cout << maxIndex;
