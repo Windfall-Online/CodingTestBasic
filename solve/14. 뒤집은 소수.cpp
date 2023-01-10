@@ -32,7 +32,7 @@ bool IsPrime(int x)
 int main()
 {
 	// 자연수 갯수 입력
-	cin >> n;
+	cin >> n; 
 	
 	for (int i = 0; i < n; ++i)
 	{
