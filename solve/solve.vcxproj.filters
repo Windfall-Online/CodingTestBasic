@@ -45,7 +45,7 @@
     <ClCompile Include="13. 가장 많이 사용된 자릿수.cpp">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="test.cpp">
+    <ClCompile Include="14. 뒤집은 소수.cpp">
       <Filter>source</Filter>
     </ClCompile>
   </ItemGroup>
