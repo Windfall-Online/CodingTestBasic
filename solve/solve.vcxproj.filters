@@ -48,6 +48,15 @@
     <ClCompile Include="14. 뒤집은 소수.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="15. 소수의 개수.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="16. Anagram.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="17. 선생님 퀴즈.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">
